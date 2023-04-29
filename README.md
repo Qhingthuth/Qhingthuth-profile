@@ -30,7 +30,7 @@
 
  
 
-<h3 align="center"> TERMUX HACKER SHAMIM </h3>
+<h3 align="center"> TERMUX HACKER PRINCR WALEX </h3>
 
  
 
